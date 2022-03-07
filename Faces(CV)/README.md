@@ -18,6 +18,6 @@
 
 Данные взяты с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/26/description)
 Есть размеченный набор данных - фотографии людей с указанием возраста:
-- одна папка со всеми изображениями (/final_files)
+- одна папка со всеми изображениями (final_files)
 - csv-файл labels.csv с двумя колонками: file_name и real_age
 
