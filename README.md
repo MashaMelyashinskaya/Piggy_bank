@@ -10,11 +10,7 @@
 - time_series (проект по временным рядам)
 
 
-			
-	[classification (проект с применением разных моделей ML для решения задачи классификации)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))		
-			
-			
-![image](https://user-images.githubusercontent.com/69733877/163460941-be07a589-f3ac-49e4-a103-d40469d609ea.png)
+
 		
 			
 			
