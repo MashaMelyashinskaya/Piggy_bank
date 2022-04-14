@@ -5,6 +5,6 @@
 - EDA (проект по исследовательскому анализу данных)
 - EDA_little (мини-проект по EDA, ad-hoc)
 - linal (проект с углублением в линейную алгебру)
-- classification (проект с применением разных моделей ML для решения задачи классификации)
+- [classification (проект с применением разных моделей ML для решения задачи классификации)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))
 - NLP (проект по обработке текстов)
 - time_series (проект по временным рядам)
