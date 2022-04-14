@@ -2,7 +2,7 @@
 Большая часть сделана в рамках обучения DS на курсе Яндекс.Практикум.\
 Также есть проекты с текущей работы и с Kaggle.
 
-1. [Books_price(EDA_little) - мини-проект исследовательскому анализу цен, ad-hoc](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Books_price(EDA_little))
+1. [Books_price(EDA_little) - мини-проект по анализу цен, ad-hoc](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Books_price(EDA_little))
 2. [Churn(classification) - задача классификации по оттоку клиентов банка](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))
 3. [Data_incryption(linal) - шифрование данных с углублением в линейную алгебру](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Data_incryption(linal))
 4. [Games(EDA) - аналитическое исследование популярности игр](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Games(EDA))
