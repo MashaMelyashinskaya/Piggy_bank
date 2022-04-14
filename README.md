@@ -8,3 +8,11 @@
 - [classification (проект с применением разных моделей ML для решения задачи классификации)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))
 - NLP (проект по обработке текстов)
 - time_series (проект по временным рядам)
+
+
+			
+			
+			
+			
+![image](https://user-images.githubusercontent.com/69733877/163460862-bdf1796e-ce37-4da1-9411-3835e507ea82.png)
+
