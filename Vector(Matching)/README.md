@@ -1,8 +1,9 @@
 В этой папке находится проект по матчингу товаров.
+Данные предоставлены компанией Samokat.
 
 ## Формат
 
-Проект сделан в Jupyter notebook: Vector(Matching).ipynb
+Проект сделан в Jupyter notebook: Samokat_vector.ipynb
 
 ## Описание задачи
 
