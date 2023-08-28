@@ -8,7 +8,7 @@
 4. [Games - аналитическое исследование популярности игр](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Games(EDA))
 5. [Taxi - прогнозирование спроса на такси с помощью ML (работа с временными рядами)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Taxi(time_series))
 6. [Toxic_comments - выделение токсичных комментариев с помощью ML (работа с текстом)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Toxic_comments(NLP))
-7. [Samokat - матчинг товаров (уже представленных векторами)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Samokat(Matching))
+7. [Мэтчинг товаров (уже представленных векторами)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Samokat(Matching))
 
 
 
