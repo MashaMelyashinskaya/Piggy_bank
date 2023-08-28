@@ -3,7 +3,7 @@
 
 ## Формат
 
-Проект сделан в Jupyter notebook: Samokat_vector.ipynb
+Проект сделан в Jupyter notebook: Vector_distance.ipynb
 
 ## Описание задачи
 
