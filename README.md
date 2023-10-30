@@ -9,7 +9,7 @@
 5. [Taxi - прогнозирование спроса на такси с помощью ML (работа с временными рядами)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Taxi(time_series))
 6. [Toxic_comments - выделение токсичных комментариев с помощью ML (работа с текстом)](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Toxic_comments(NLP))
 7. [Matching - мэтчинг товаров, уже представленных векторами](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Matching(vector_distance))
-8. [Malicious traffic - классофикатор видов злонамеренного трафика]()
+8. [Malicious traffic - классификатор видов злонамеренного трафика](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Malicious%20traffic)
 
 
 
