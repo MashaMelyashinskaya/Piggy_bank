@@ -2,7 +2,7 @@
 
 ## Формат
 
-Проект сделан в Jupyter notebook: AB_test.ipynb
+Проект сделан в Jupyter notebook: AB-test.ipynb
 
 ## Описание задачи
 
