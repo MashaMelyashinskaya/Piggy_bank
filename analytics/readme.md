@@ -11,7 +11,7 @@
 
 ## Источник данных
 
-Локальная СУБД ClickHouse, таблица "portfolio.feed_actions_group".
+Локальная СУБД ClickHouse, таблица "portfolio.feed_actions_group".\
 Данные в репозиторий не включены.
 
 ## Описание данных
