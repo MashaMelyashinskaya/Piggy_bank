@@ -14,7 +14,7 @@
 
 ## Описание файла с данными
 
-Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling\
+Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling \
 Данные в репозиторий не включены. Ноутбук читает CSV с локального пути.
 
 ## Описание данных
