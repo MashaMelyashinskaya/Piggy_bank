@@ -11,7 +11,7 @@
 
 ## Данные
 
-Источник: [Kaggle — Bank Customer Churn Modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+Источник: [Kaggle — Bank Customer Churn Modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)\
 Данные в репозиторий не включены. Ноутбук читает CSV с локального пути.
 
 Поля:
@@ -32,7 +32,7 @@
 
 ## Подход
 
-- Сравнение моделей: логистическая регрессия и случайный лес.
+- Сравнение моделей: логистическая регрессия и случайный лес
 - Дисбаланс классов (~80/20) обрабатывался тремя способами:
   - взвешивание классов (`class_weight='balanced'`)
   - upsampling
