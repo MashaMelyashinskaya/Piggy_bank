@@ -5,10 +5,6 @@
 Из банка уходят клиенты. Маркетологи пришли к выводу, что **удерживать текущих клиентов дешевле, чем привлекать новых**.\
 **Цель**: по историческим данным предсказать, уйдёт ли клиент в ближайшее время.
 
-## Формат
-
-Проект сделан в Jupyter notebook: Churn(classification).ipynb
-
 ## Данные
 
 Источник: [Kaggle — Bank Customer Churn Modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)\
